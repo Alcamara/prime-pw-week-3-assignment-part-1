@@ -90,7 +90,7 @@ console.log('The animals are now', animalArray);
 
 // 4.f (STRETCH) TODO: Sort your favoritefoodss array
 //     in reverse alphabetical order. Log the array.
-        console.log(foods.reverse());
+        console.log(foods.sort().reverse());
 // 4.g (STRETCH) TODO: Convert your array to a string
 //     putting the word "and" between each item.
 //     eg "tacos and pizza and pasta". Log the string.
